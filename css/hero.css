@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    font-family: 'Nuosu SIL', serif;
+}
+
+header{
+    background-color: powderblue;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+header h1{
+    font-size: 70px;
+    font-family: 'Monofett', cursive;
+    color: navy;
+}
+
+header img{
+border-radius: 170px;
+width: 300px;
+border: 10px solid navy;
+}
+
+main{
+    background-color: ;
+max-width: 1000px;
+margin: 0 20px;
+padding: 20px;
+}
+
+main img{
+    max-width: 100%;
+}
+
+h2{
+    font-size: 30px;
+}
+
+main img{
+    border: 10px solid navy;
+    text-align: center;
+}
+
+.beskrivelse{
+    color: gray;
+    margin: 0;
+    opacity: .5;
+
+}
+
+.om{
+    margin-bottom: 20px;
+
+}
+
+footer{
+    background-color: powderblue;
+    padding: 50px;
+    text-align: center;
+}
+
+li :hover{
+    background-color: navy;
+    color: white;
+}
+
+.link :hover{
+    background-color: navy;
+    color: white;
+}
